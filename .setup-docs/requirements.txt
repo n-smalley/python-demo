@@ -1,3 +1,4 @@
 pandas
 openpyxl
 small-py
+ipykernel
