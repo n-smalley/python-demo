@@ -1,5 +1,5 @@
 def main() -> None:
-    print('Hello DBMS!')
+    print('Good morning DBMS!')
 
 if __name__ == '__main__':
     main()
