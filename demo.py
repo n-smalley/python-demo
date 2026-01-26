@@ -3,3 +3,5 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+
+    print('we are all good at this')
