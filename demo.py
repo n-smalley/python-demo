@@ -4,4 +4,4 @@ def main() -> None:
 if __name__ == '__main__':
     main()
 
-    print('Nathan is good at this')
+    print('we are all good at this')
